@@ -1,6 +1,6 @@
-avocado
-cilantro
-salt
-tomatoes
-onions
-lime
+Avocado
+Cilantro
+Salt
+Tomatoes
+Onions
+Lime
